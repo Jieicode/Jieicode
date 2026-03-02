@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jieicode Portfolio
 
-<!--
-**Jieicode/Jieicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
+1999年生まれ。
 
-Here are some ideas to get you started:
+証券会社、テーマパーク、海外ワーキングホリデー、
+化粧品ブランド勤務を経験。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+現在は未経験からITエンジニアを目指し、
+Pythonを中心に学習中。
+
+---
+
+## 学習内容
+- Python基礎（input, int, str）
+- if文
+- for文
+
+---
+
+## 今後作る予定
+- 電卓アプリ
+- ToDoアプリ
+- 簡単なWebアプリ
